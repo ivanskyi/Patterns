@@ -8,7 +8,7 @@ import java.util.concurrent.CountDownLatch;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class ConfigSingletonTest {
+public class ConfigSingletonTest {
 
     @Test
     @DisplayName("Should keep apiKey consistent in multithreaded access")
