@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertInstanceOf;
 
-public class FactoryMethodTest {
+public class FactoryMethodPatternTest {
 
     @Test
     @DisplayName("Each TelecommunicationCompany produces a distinct Notification type")
