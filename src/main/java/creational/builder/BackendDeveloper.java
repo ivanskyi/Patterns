@@ -1,6 +1,7 @@
 package creational.builder;
 
 public class BackendDeveloper extends Developer {
+
     protected String position;
 
     private BackendDeveloper(Builder builder) {
