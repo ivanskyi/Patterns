@@ -7,7 +7,7 @@ import java.util.List;
 
 import static org.mockito.Mockito.*;
 
-class ChainOfResponsibilityPatternTest {
+public class ChainOfResponsibilityPatternTest {
 
     @Test
     @DisplayName("Test that English and Ukrainian language handlers process the chain and stop further processing")

@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class HierarchicalBuilderPatternTest {
+public class HierarchicalBuilderPatternTest {
 
     @Test
     @DisplayName("Should correctly build objects using Builder pattern")

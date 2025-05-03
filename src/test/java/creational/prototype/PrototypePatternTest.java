@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import java.util.List;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class PrototypePatternTest {
+public class PrototypePatternTest {
 
     @Test
     @DisplayName("Cloned object should have independent state from the original")
