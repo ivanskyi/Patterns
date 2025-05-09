@@ -10,6 +10,7 @@
 
 - **Chain of Responsibility Pattern** — [More info](docs/patterns/behavioral/ChainOfResponsibilityPattern.md)
 - **Iterator Pattern** — [More info](docs/patterns/behavioral/IteratorPattern.md)
+- **Visitor Pattern** — [More info](docs/patterns/behavioral/VisitorPattern.md)
 
 # Structural Patterns
 
