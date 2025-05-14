@@ -17,3 +17,4 @@
 
 - **Adapter Pattern** — [More info](docs/patterns/structural/AdapterPattern.md)
 - **Facade Pattern** — [More info](docs/patterns/structural/FacadePattern.md)
+- **Decorator Pattern** — [More info](docs/patterns/structural/DecoratorPattern.md)
