@@ -12,6 +12,7 @@
 - **Iterator Pattern** — [More info](docs/patterns/behavioral/IteratorPattern.md)
 - **Visitor Pattern** — [More info](docs/patterns/behavioral/VisitorPattern.md)
 - **Strategy Pattern** — [More info](docs/patterns/behavioral/StrategyPattern.md)
+- **Mediator Pattern** — [More info](docs/patterns/behavioral/MediatorPattern.md)
 
 # Structural Patterns
 
