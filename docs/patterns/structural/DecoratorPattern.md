@@ -21,3 +21,24 @@ by wrapping the object with a decorator, which implements the same interface and
 
 - Can result in many small classes that are harder to manage and understand.
 - The wrapping (decoration) structure can become complex and difficult to trace.
+
+## How to remember it:
+Decorator is like a gift wrap: it doesn't change the core, but adds new features.
+
+### Patterns Similar to Decorator: Key Similarities and Differences
+
+- **Proxy**  
+  **Similarity**: Wraps an object and implements the same interface.  
+  **Difference**: Controls access rather than adding behavior.
+
+- **Adapter**  
+  **Similarity**: Wraps an object.  
+  **Difference**: Converts the interface instead of preserving it.
+
+- **Chain of Responsibility**  
+  **Similarity**: Objects delegate calls to others.  
+  **Difference**: Passes requests along a chain rather than enhancing behavior.
+
+- **Composite**  
+  **Similarity**: Uses a shared interface for objects.  
+  **Difference**: Combines multiple objects into a tree, rather than wrapping a single one.
